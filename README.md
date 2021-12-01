@@ -12,7 +12,7 @@
 
 - 💻 I'm a Front End Developer
 - 📺 I make web development
-- 💬 Ask me about **Angular** **JS**
+- 💬 Ask me about **Angular** and **JS**
 - 📫 How to reach me: rezaei.alireza.ce@gmail.com
 
 
